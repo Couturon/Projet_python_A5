@@ -2,7 +2,7 @@
 Ce git hub contient un projet permettant de déterminer si un client va passer une commande sur un site de e-commerce à l'aide de modèles de machine learning.
 Pour cela, ce projet s'appuie sur le dataset Online Shoppers Purchasing Intention Dataset que vous pourrez retrouver sur ce lien : https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset.
 
-Le fichie PDF contient un power point décrivant les tenants et aboutissant du problème et des reflexions autour du dataset.
+Le fichier PDF contient un power point décrivant les tenants et aboutissant du problème et des reflexions autour du dataset.
 
 Le fichier Python_data_projet_undersampling.ipynb contient le projet en tant que tel. Il commence par la visualisation des données afin de les comprendre, leur traitement pour pouvoir les utiliser avec des modèles de machine learning et pour finir les modèles eux-mêmes. Trois modèles différents ont été testés : 
   - Un modèle de régression logistique 
