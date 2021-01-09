@@ -9,6 +9,6 @@ Le fichier Python_data_projet_undersampling.ipynb contient le projet en tant que
   - Un modèle random forest 
   - Un modèle XGBoost 
 
-Pour finir le répertoire API flask contient une API fait avec flask permettant de tester les modèles random forest et XGBoost. Chacun des deux modèles ont été télécharger précédemment et mis dans le répertoire "models". Pour lancer l'API, il vous suffit de lancer le fichier app.py dans un invite de commande. Ensuite pour tester le modèle, vous pouvez exécuter le fichier request.py dans un autre invite de commande. Il prend en argument les informations d'un clients et renvoie comme réponse si celui-ci va passer une commande ou non. Pour changer le modèle utiliser dans l'API, il faut le changer dans le fichier app.py.
+Pour finir le répertoire API flask contient une API faites avec flask permettant de tester les modèles random forest et XGBoost. Chacun des deux modèles a été téléchargé précédemment et mis dans le répertoire "models". Pour lancer l'API, il vous suffit de lancer le fichier app.py dans un invite de commande. Ensuite pour tester le modèle, vous pouvez exécuter le fichier request.py dans un autre invite de commande. Il prend en argument les informations d'un client et renvoie comme réponse si celui-ci va passer une commande ou non. Pour changer le modèle utilisé dans l'API, il faut le changer dans le fichier app.py.
 
 Merci de m'avoir lu !
